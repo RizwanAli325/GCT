@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "teamName": "st",
+    "userEmail": "rizwancheena83@gmail.com",
+    "players": [
+      "2",
+      "3",
+      "3",
+      "t",
+      "g",
+      "f",
+      "e",
+      "h"
+    ],
+    "photos": [
+      "photo1-1777106088545.jpeg",
+      "photo2-1777106088549.jpeg",
+      "photo3-1777106088551.jpeg",
+      "photo4-1777106088553.jpeg",
+      "photo5-1777106088555.jpeg",
+      "photo6-1777106088556.jpeg",
+      "photo7-1777106088558.jpeg",
+      "photo8-1777106088560.jpeg"
+    ],
+    "status": "approved",
+    "createdAt": "2026-04-25T08:34:48.561Z"
+  }
+]
