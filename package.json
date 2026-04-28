@@ -1,0 +1,22 @@
+{
+  "name": "cricket-registration",
+  "version": "1.0.0",
+  "description": "Cricket Team Registration System - Full Stack",
+  "type": "module",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "preview": "cd client && npm run preview",
+    "server": "cd server && npm start",
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install"
+  },
+  "keywords": [
+    "cricket",
+    "registration",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "MIT"
+}
