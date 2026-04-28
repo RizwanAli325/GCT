@@ -12,7 +12,7 @@
   },
   "scripts": {
     "dev": "cd client && npm run dev",
-    "build": "cd client && npm run build",
+    "build": "npm ci --prefix client && npm run --prefix client build",
     "preview": "cd client && npm run preview",
     "server": "cd server && npm start",
     "install-all": "npm install && cd client && npm install && cd ../server && npm install"
